@@ -1,4 +1,4 @@
-# SimplyTyped
+https://github.com/andnp/SimplyTyped.git# SimplyTyped
 
 
 [![Build Status](https://travis-ci.org/andnp/SimplyTyped.svg?branch=NumberPerformance)](https://travis-ci.org/andnp/SimplyTyped)
